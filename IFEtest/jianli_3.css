@@ -1,0 +1,23 @@
+h1{
+    width: 100%;
+    background-color: #797a73;
+    color: white;
+    height: 80px;
+    padding-left: 20px;
+    /*margin: auto;*/
+    /*vertical-align: center;*/
+}
+.div{
+    display: inline-block;
+}
+h2{
+    float: left;
+    /*width: 100px;*/
+    /*display: block;*/
+    /*width: 100px;*/
+}
+p{
+    /*float: left;*/
+    display: inline-block;
+
+}
